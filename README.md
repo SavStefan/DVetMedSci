@@ -5,7 +5,7 @@ global.R, server.R, and ui.R files contain the R/Shiny code for the D.E.E text-m
 
 The fully functional application is accessible in-browser via:  https://stefansav.shinyapps.io/necropsy-text-mining-2/ 
 
-GithubData.csv contains a small random selection of accessions from the Wildbase Pathology Register that can be used to explore functions in the application. This data is not representative of any subset of the Wildbase Pathology Register and some data has been modified for confidentiality purposes.  
+Github Data.csv contains a small random selection of accessions from the Wildbase Pathology Register that can be used to explore functions in the application. This data is not representative of any subset of the Wildbase Pathology Register and some data has been modified for confidentiality purposes.  
 
 Supp_annotating app.R and Supp_analysis app.R files contain the R/Shiny code used in the misclassification analysis of the pilot application testing study (Chapter 4) of this study. 
 
