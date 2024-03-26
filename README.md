@@ -9,4 +9,4 @@ Github Data.csv contains a small random selection of accessions from the Wildbas
 
 Supp_annotating app.R and Supp_analysis app.R files contain the R/Shiny code used in the misclassification analysis of the pilot application testing study (Chapter 4) of this study. 
 
-Supp_9 testers.csv is the complete data of the analysis performed in the pilot application testing study (Chapter 4) of this study.  
+Supp_9 testers.csv is the complete data of the analysis performed in the pilot application testing study (Chapter 5) of this study.  
